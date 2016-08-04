@@ -1,6 +1,6 @@
 # API Reference
 
-## Build-in Validators
+## Built-in Validators
 
 ### required
 
